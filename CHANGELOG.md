@@ -65,6 +65,14 @@ Happy April Fool's Day! While we did genuinely rework the settings page structur
 # LoLLMs v19.0 (alpha) Changelog
 *Date: March 06, 2025*
 
+## [2026-04-26 01:04]
+
+- docs: update CHANGELOG with submodule dependency removal entry
+
+## [2026-04-26 00:57]
+
+- feat: remove submodule dependencies for bindings and models zoo
+
 ## [2026-04-26 00:41]
 
 - chore: update web dependencies and rebuild dist bundles
